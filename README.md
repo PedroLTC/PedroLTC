@@ -1,4 +1,4 @@
-![image](https://i.pinimg.com/originals/68/ec/b4/68ecb4f6e9ebf64d37454df3541857f6.gif)
+![image](https://www.gigabyte.com/FileUpload/Global/KeyFeature/1773/innergigabyteimages/memory-layout.gif)
 
 
 
