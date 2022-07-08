@@ -1,4 +1,25 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/76752154/178037254-cc603d83-8882-431c-a009-49c1c423e5f1.png)
+
+
+
+### Welcome to my Profile!
+
+I am a person with experience in the industrial sector, in the academic and in the I+D field, with a leadership attitude and proactivity, with the capacity for analysis, short-term learning and teamwork. What is my contribution as a professional?
+
+Attitude of service, maintaining lasting relationships, satisfying customer needs (internal and external), solving non-conformities, generating value, optimizing processes.
+
+Specifically; design, configuration and commissioning of automated control systems based on the most recent technologies and the most recognized brands on the market.
+
+Used to working in different sectors of the industry (Oil&Gas, Food, Glass, Cement and Electric Power Generation)
+
+
+- 💬 Ask me about DCS, SCADA, Microcontrollers, Software Development, PLC Programming
+
+### Proffesional Profile Link
+
+- 📫 How to reach me: www.linkedin.com/in/ptorres2022
+
+
 
 <!--
 **PedroLTC/PedroLTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
