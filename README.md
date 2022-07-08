@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/76752154/178038523-2acc9387-5046-46f1-afd7-9c98622ac9df.png)
+![image](https://i.pinimg.com/originals/68/ec/b4/68ecb4f6e9ebf64d37454df3541857f6.gif)
 
 
 
@@ -13,7 +13,7 @@ Specifically; design, configuration and commissioning of automated control syste
 Used to working in different sectors of the industry (Oil&Gas, Food, Glass, Cement and Electric Power Generation)
 
 
-- 💬 Ask me about DCS, SCADA, Microcontrollers, Software Development, PLC Programming
+- 💬 Ask me about DCS, SCADA, Microcontrollers, Software Development, PLC Programming, PCBs
 
 ### Proffesional Profile Link
 
